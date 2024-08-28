@@ -1,5 +1,4 @@
-## Laravel-passport is a basic API server build using Laravel, Passport, and Vue.js [![License](http://jeremykenedy.com/license-mit.svg)](LICENSE) [![Build Status](https://travis-ci.org/jeremykenedy/laravel-passport.svg?branch=master)](https://travis-ci.org/jeremykenedy/laravel-passport)
-
+## Laravel-passport is a basic API server build using Laravel, Passport, and Vue.js 
 This will act as the API server for laravel-consume. It is recommended that you setup and use Laravel Homestead
 as your development environment for this project.
 
